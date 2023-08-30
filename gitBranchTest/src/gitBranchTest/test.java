@@ -8,7 +8,7 @@ public class test {
 		
 		System.out.println("커밋 되었는지 체크");
 		
-		System.out.println("dev 머지 테스트 1");
+		System.out.println("dev 머지 테스트 2");
 	}
 
 }
