@@ -8,7 +8,7 @@ public class test {
 		
 		System.out.println("커밋 되었는지 체크");
 		
-		System.out.println("dev에 머지 충돌 테스트 (로컬 브랜치 커밋)");
+		System.out.println("dev 브랜치 다이렉트 커밋 (로컬 머지 충돌 해결)");
 	}
 
 }
