@@ -8,7 +8,7 @@ public class test {
 		
 		System.out.println("커밋 되었는지 체크");
 		
-		System.out.println("dev 브랜치에만 커밋 & 푸쉬 되었는지 체크");
+		System.out.println("dev 브랜치 다이렉트 커밋");
 	}
 
 }
