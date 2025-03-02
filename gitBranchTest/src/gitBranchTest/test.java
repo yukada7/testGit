@@ -16,6 +16,8 @@ public class test {
 		System.out.println("임의 충돌");
 		System.out.println("Test in VSCode");
 		System.out.println("퇴근하고 싶어요.");
+		
+		System.out.println("깃 리베이스 깨끗한 소스");
 	}
 
 }
