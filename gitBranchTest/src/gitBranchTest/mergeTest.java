@@ -13,6 +13,9 @@ public class mergeTest {
         System.out.println("누군가 이 파일을 2등으로 수정했습니다.");
         
         System.out.println("충돌 충돌 테스트");
+		System.out.println("누군가 이 파일을 2등으로 수정했습니다.");
+		
+		System.out.println("임의 충돌");
 	}
 
 }
