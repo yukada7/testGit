@@ -10,7 +10,9 @@ public class mergeTest {
 		
 		System.out.println("누군가 이 파일을 1등으로 먼저 수정했습니다.");
 		
-        System.out.println("누군가 이 파일을 2등으로 수정했습니다.");
+		System.out.println("누군가 이 파일을 2등으로 수정했습니다.");
+		
+		System.out.println("임의 충돌");
 	}
 
 }
